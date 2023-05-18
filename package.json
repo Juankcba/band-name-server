@@ -15,5 +15,8 @@
     "express": "^4.17.1",
     "socket.io": "^2.3.0",
     "uuid": "^8.3.1"
+  },
+  "devDependencies": {
+    "@flydotio/dockerfile": "^0.2.5"
   }
 }
